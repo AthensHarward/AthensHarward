@@ -30,11 +30,8 @@ Welcome to my cybersecurity portfolio! This repository serves as a showcase of m
 
 ## CTF Challenges
 
-### HackTheBox
+## HackTheBox
 - [Hack The Box](https://github.com/AthensHarward/Hack-The-Box)
-- [Challenge 1](https://github.com/your-username/hackthebox-docs/tree/main/challenge1)
-- [Challenge 2](https://github.com/your-username/hackthebox-docs/tree/main/challenge2)
-- [...]
 
 [Document your participation and achievements in Capture the Flag (CTF) challenges or other hands-on cybersecurity exercises. Provide details about the challenges, your approach, and any notable accomplishments.]
 
