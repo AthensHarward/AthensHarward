@@ -23,7 +23,31 @@ My passion for cybersecurity is not just about the technicalities; it’s about 
 
 ## Skills
 
-[List your technical skills relevant to cybersecurity, such as programming languages, tools, frameworks, and methodologies.]
+## Skills Section
+
+### Programming Languages:
+- **Java**: Basic understanding, with capabilities in building simple applications and solving problems.
+- **Python**: Competent in scripting and automating tasks, with a focus on security applications.
+- **HTML & CSS**: Solid foundation in web development, enabling the creation of structured and styled web pages.
+
+### Cybersecurity Knowledge:
+- **System Policies**: Well-versed in the development and implementation of system policies to secure information systems.
+- **Network Security**: Knowledgeable about network configurations, safe network practices, and defense strategies.
+- **Internet Practices**: Familiar with secure browsing techniques, phishing defense, and online privacy measures.
+
+### Penetration Testing Tools:
+- Proficient in using tools such as Nmap for network discovery and vulnerability scanning.
+- Experienced with Gobuster for directory and file enumeration in web applications.
+
+### Networking:
+- Solid grasp of the TCP/IP suite, understanding the fundamental protocols and services that enable internet and network communication.
+
+### Tips for Further Enhancement:
+- **Examples**: Where possible, include brief examples of how you've applied these skills in projects or tasks. This adds credibility and depth to your claims.
+- **Certifications or Courses**: Mention any relevant certifications, courses, or workshops you’ve completed that relate to these skills.
+- **Projects**: Linking to specific projects on your GitHub that demonstrate these skills in action can be highly effective. It provides tangible evidence of your capabilities.
+- **Continuous Learning**: Indicate any areas where you are actively expanding your knowledge or skills, showcasing your commitment to staying current in the field.
+
 
 ## Certifications
 
