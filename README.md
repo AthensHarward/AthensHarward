@@ -1,6 +1,6 @@
 # Cybersecurity Portfolio
 
-Welcome to my cybersecurity portfolio! This repository serves as a showcase of my skills, projects, and accomplishments in the field of cybersecurity. As a motivated professional, I'm dedicated to continuously learning and expanding my expertise in this ever-evolving domain.
+This repository serves as a showcase of my skills, projects, and accomplishments in the field of cybersecurity. As a motivated professional, I'm dedicated to continuously learning and expanding my expertise in this ever-evolving domain.
 
 ## Table of Contents
 
@@ -41,23 +41,18 @@ My passion for cybersecurity is not just about the technicalities; it’s about 
 
 ## Certifications
 
-[List any cybersecurity certifications you have obtained or plan to pursue, along with brief descriptions and completion dates (if applicable).]
 
 ## Homelab Projects
 
-[Describe any homelab projects you've undertaken to practice and improve your cybersecurity skills. Include project descriptions, technologies used, and key learnings.]
 
 ## CTF Challenges
 
 ## HackTheBox
 - [Hack The Box](https://github.com/AthensHarward/Hack-The-Box)
 
-[Document your participation and achievements in Capture the Flag (CTF) challenges or other hands-on cybersecurity exercises. Provide details about the challenges, your approach, and any notable accomplishments.]
 
 ## Contributions
 
-[Highlight any contributions you've made to open-source projects, blogs, or online communities related to cybersecurity. Include links to your contributions.]
 
 ## Contact
 
-[Provide your contact information, such as email address, LinkedIn profile, or any other relevant links, for potential employers or collaborators to reach out to you.]
