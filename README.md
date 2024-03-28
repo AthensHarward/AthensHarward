@@ -1,26 +1,29 @@
-# Cybersecurity Portfolio
+# IT and Cybersecurity Portfolio
 
-This repository serves as a showcase of my skills, projects, and accomplishments in the field of cybersecurity. As a motivated professional, I'm dedicated to continuously learning and expanding my expertise in this ever-evolving domain.
-
-## Table of Contents
-
-- [About Me](#about-me)
-- [Skills](#skills)
-- [Certifications](#certifications)
-- [Homelab Projects](#homelab-projects)
-- [CTF Challenges](#ctf-challenges)
-- [Contributions](#contributions)
-- [Contact](#contact)
+Welcome to my portfolio, a reflection of my journey, skills, and aspirations within IT and cybersecurity. As I am passionate about technology and security, my career goal is to bridge these fields, starting with an entry-level position in IT.
 
 ## About Me
 
-Currently, I serve as a Patrol Driver at VSS Security Services, where I play a crucial role in maintaining safety and security protocols. My journey into the security domain began at Grand Canyon University, marking the onset of a profound dedication to safeguarding and risk management. This experience awakened a deep-seated passion for security, a field where my instincts naturally align with professional responsibilities.
+Currently as a Security Profesional, I have developed keen observational skills and a proactive approach to risk management. This background, combined with my education from Grand Canyon University and a personal passion for technology, steered me towards the fields of IT and cybersecurity. I am particularly intrigued by the nature of these fields and am committed to building a career that encompasses both, starting with an entry-level IT role.
 
-The transition from physical security to the digital realm was sparked by my inherent interest in IT. This evolution of my career path led me to the captivating world of cybersecurity. I am particularly drawn to the intricacies of system policies and the dynamic nature of the digital threat landscape. Cybersecurity, with its constant challenges and the necessity for perpetual vigilance and learning, resonates with my core values and professional ethos.
+- Member of the National Society of Collegiate Scholars, an honor society recognizing academic excellence among first- and second-year college students with a GPA of 3.4 or higher.
+- Member of Alpha Chi, a national college honor society that celebrates academic achievements and promotes academic excellence across all disciplines. Membership is selective, extended to students in the top 10% of juniors and seniors at their institution.
 
-My passion for cybersecurity is not just about the technicalities; it’s about the mindset. The field demands a unique blend of diligence, proactive strategy, and an unending thirst for knowledge—qualities that define my approach to both life and work. I am committed to not just navigating but excelling in this ever-changing environment, driven by a mission to make the digital world a safer place for everyone.
-
+  
 ## Skills
+
+### Technical Proficiencies:
+- **Programming Languages**: Java and Python for scripting and basic application development.
+- **Web Development**: HTML & CSS for creating and troubleshooting web pages.
+- **Networking**: Solid understanding of TCP/IP and OSI Model, network configuration, and troubleshooting.
+
+### IT Support Skills:
+- **Troubleshooting**: Familiar with identifying and solving hardware, software, and network issues.
+- **Customer Service**: Strong communication skills, essential for assisting users and ensuring satisfactory problem resolution.
+
+### Cybersecurity Fundamentals:
+- **Security Practices**: Knowledge of secure internet practices, phishing defense, and penetration testing tools like Nmap and Gobuster.
+
 
 ### Programming Languages:
 - **Java**: Basic understanding, with capabilities in building simple applications and solving problems.
@@ -32,27 +35,16 @@ My passion for cybersecurity is not just about the technicalities; it’s about 
 - **Network Security**: Knowledgeable about network configurations, safe network practices, and defense strategies.
 - **Internet Practices**: Familiar with secure browsing techniques, phishing defense, and online privacy measures.
 
+- ## Cybersecurity Explorations
+- **Hack The Box Challenges**: Engaged in practical cybersecurity challenges to better understand system vulnerabilities and security measures.
+
+## Professional Development
+- **Continuous Learning**: Dedicated to further education in IT and cybersecurity through courses, webinars, and community participation.
+
 ### Penetration Testing Tools:
 - Experienced in using tools such as Nmap for network discovery and vulnerability scanning.
 - Experienced with Gobuster for directory and file enumeration in web applications.
-
-### Networking:
-- Solid grasp of the TCP/IP suite, understanding the fundamental protocols and services that enable internet and network communication.
-
-## Certifications
-
-
-## Homelab Projects
-
-
-## CTF Challenges
-
-## HackTheBox
-- [Hack The Box](https://github.com/AthensHarward/Hack-The-Box)
-
-
-## Contributions
-
+- Experienced with Cisco Packet Tracer for building and upgrading networks.
 
 ## Contact
 
